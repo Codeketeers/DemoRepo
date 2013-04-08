@@ -1,0 +1,6 @@
+<html>
+<body>
+	<p>Hello World</p>
+	<p>Sean is picky about tags</p><div></div>
+</body>
+</html>
